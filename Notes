@@ -1,0 +1,8 @@
+Creating ENV:
+    conda create -p venv python==3.8
+
+Activating ENV:
+    conda activate venv/
+
+Running Setup for creating package:
+    python setup.py install
